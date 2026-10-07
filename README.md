@@ -8,8 +8,8 @@ https://tipu023.github.io/Myntra-Clone/
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 📌 Features
 
